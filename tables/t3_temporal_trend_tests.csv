@@ -1,0 +1,4 @@
+Organism,Antibiotic,Antibiotic (name),Years tested,N per year,R per year (n > breakpoint),Breakpoint (mg/L),Breakpoint confidence,Cochran-Armitage z,Cochran-Armitage p-value (%R trend),GeoMean trend slope (log2 MIC/year),Slope bootstrap 95% CI,"Permutation p-value (GeoMean trend, PRIMARY)",Fold-change per year (2^slope)
+Haemophilus influenzae,AXO,Ceftriaxone,"2016,2017,2018","686,351,27","0,0,0",2.0,high,,,0.6252,"[0.4712, 0.7777]",0.0001,1.542
+Haemophilus influenzae,CDN,Cefdinir,"2016,2017,2018","686,351,27","2,0,0",1.0,moderate,-1.007,0.31411,0.3158,"[0.1988, 0.4333]",0.0001,1.245
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,"2016,2017,2018","686,351,27","1,11,0",4.0,moderate,3.489,0.00049,0.6446,"[0.4821, 0.8066]",0.0001,1.563

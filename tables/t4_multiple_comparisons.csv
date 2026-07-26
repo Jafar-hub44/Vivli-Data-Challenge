@@ -1,0 +1,27 @@
+Domain,Source,Organism,Antibiotic,Comparison,Test,p_value,Bonferroni adj. p,Bonferroni significant (a=0.05),Holm adj. p,Holm significant (a=0.05),BH-FDR adj. p (q-value),BH-FDR significant (a=0.05)
+country,Stage3 Part1 Case1,Haemophilus influenzae,AXO,Philippines vs Vietnam,Fisher exact (%R),1.0,1.0,False,1.0,False,1.0,False
+country,Stage3 Part1 Case1,Haemophilus influenzae,AXO,Philippines vs Vietnam,"Permutation (GeoMean, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+country,Stage3 Part1 Case1,Haemophilus influenzae,AXO,Philippines vs Vietnam,Mann-Whitney U (secondary),0.0,0.0,True,0.0,True,0.0,True
+country,Stage3 Part1 Case2,Streptococcus pneumoniae,AXO,Argentina vs Tunisia,Fisher exact (%R),0.0239,0.6214,False,0.2151,False,0.03452,True
+country,Stage3 Part1 Case2,Streptococcus pneumoniae,AXO,Argentina vs Tunisia,"Permutation (GeoMean, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+country,Stage3 Part1 Case2,Streptococcus pneumoniae,AXO,Argentina vs Tunisia,Mann-Whitney U (secondary),0.0,0.0,True,0.0,True,0.0,True
+country,Stage3 Part1 Case3,Streptococcus pneumoniae,AMX,Argentina vs Kenya,Fisher exact (%R),0.7423,1.0,False,1.0,False,0.87726,False
+country,Stage3 Part1 Case3,Streptococcus pneumoniae,AMX,Argentina vs Kenya,"Permutation (GeoMean, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+country,Stage3 Part1 Case3,Streptococcus pneumoniae,AMX,Argentina vs Kenya,Mann-Whitney U (secondary),0.0,0.0,True,0.0,True,0.0,True
+country,Stage3 Part1 Case4,Streptococcus pneumoniae,AMC,Argentina vs Kenya,Fisher exact (%R),0.7423,1.0,False,1.0,False,0.87726,False
+country,Stage3 Part1 Case4,Streptococcus pneumoniae,AMC,Argentina vs Kenya,"Permutation (GeoMean, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+country,Stage3 Part1 Case4,Streptococcus pneumoniae,AMC,Argentina vs Kenya,Mann-Whitney U (secondary),0.0,0.0,True,0.0,True,0.0,True
+country,Stage3 Part3 hidden-signal #1,Haemophilus influenzae,CLA,Chile vs Vietnam,Fisher exact (%R),1.0,1.0,False,1.0,False,1.0,False
+country,Stage3 Part3 hidden-signal #1,Haemophilus influenzae,CLA,Chile vs Vietnam,"Permutation (GeoMean, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+country,Stage3 Part3 hidden-signal #1,Haemophilus influenzae,CLA,Chile vs Vietnam,Mann-Whitney U (secondary),0.05007,1.0,False,0.40056,False,0.06852,False
+country,Stage3 Part3 hidden-signal #2,Haemophilus influenzae,AMC,Tunisia vs Ukraine,Fisher exact (%R),1.0,1.0,False,1.0,False,1.0,False
+country,Stage3 Part3 hidden-signal #2,Haemophilus influenzae,AMC,Tunisia vs Ukraine,"Permutation (GeoMean, PRIMARY)",0.0013,0.0338,True,0.013,True,0.00199,True
+country,Stage3 Part3 hidden-signal #2,Haemophilus influenzae,AMC,Tunisia vs Ukraine,Mann-Whitney U (secondary),0.00016,0.00416,True,0.0022,True,0.0003,True
+country,Stage3 Part3 hidden-signal #3,Haemophilus influenzae,POD,Tunisia vs Ukraine,Fisher exact (%R),1.0,1.0,False,1.0,False,1.0,False
+country,Stage3 Part3 hidden-signal #3,Haemophilus influenzae,POD,Tunisia vs Ukraine,"Permutation (GeoMean, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+country,Stage3 Part3 hidden-signal #3,Haemophilus influenzae,POD,Tunisia vs Ukraine,Mann-Whitney U (secondary),0.00036,0.00936,True,0.00432,True,0.00062,True
+temporal,Stage3 Part2,Haemophilus influenzae,AXO,2016-2018 trend,"Permutation (GeoMean trend, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+temporal,Stage3 Part2,Haemophilus influenzae,CDN,2016-2018 trend,Cochran-Armitage (%R trend),0.31411,1.0,False,1.0,False,0.40834,False
+temporal,Stage3 Part2,Haemophilus influenzae,CDN,2016-2018 trend,"Permutation (GeoMean trend, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True
+temporal,Stage3 Part2,Haemophilus influenzae,AMC,2016-2018 trend,Cochran-Armitage (%R trend),0.00049,0.01274,True,0.00539,True,0.0008,True
+temporal,Stage3 Part2,Haemophilus influenzae,AMC,2016-2018 trend,"Permutation (GeoMean trend, PRIMARY)",0.0001,0.0026,True,0.0022,True,0.0002,True

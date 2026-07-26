@@ -1,0 +1,1 @@
+Organism,Antibiotic,Antibiotic (name),Years,N per year,%R range (pp),%R by year,GeoMean log2 range,GeoMean direction (first->last yr),GeoMean by year (mg/L),MIC50 constant across years?,MIC50 by year,MIC90 constant across years?,MIC90 by year,Skewness range,IQR_log2 range,Stable %R + shifting GeoMean?,N years,Source

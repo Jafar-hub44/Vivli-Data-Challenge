@@ -1,0 +1,24 @@
+Organism,Antibiotic,Antibiotic (name),Stratum type,Stratum,N,Breakpoint (mg/L),Breakpoint confidence,%R (point estimate),n_R,%R Wilson 95% CI low,%R Wilson 95% CI high,%R Clopper-Pearson 95% CI low,%R Clopper-Pearson 95% CI high,"GeoMean (point estimate, mg/L)",GeoMean bootstrap 95% CI low,GeoMean bootstrap 95% CI high,MIC50 (point estimate),MIC50 bootstrap 95% CI,MIC90 (point estimate),MIC90 bootstrap 95% CI,Modal MIC (point estimate),Modal MIC bootstrap stability (%)
+Haemophilus influenzae,AXO,Ceftriaxone,country,Philippines,59,2.0,high,0.0,0,0.0,6.11,0.0,6.06,0.0152,0.015,0.0155,0.015,"[0.015, 0.015]",0.015,"[0.015, 0.015]",0.015,100.0
+Haemophilus influenzae,AXO,Ceftriaxone,country,Vietnam,89,2.0,high,0.0,0,0.0,4.14,0.0,4.06,0.1359,0.1126,0.164,0.12,"[0.12, 0.12]",0.25,"[0.25, 1]",0.12,90.3
+Streptococcus pneumoniae,AXO,Ceftriaxone,country,Argentina,95,1.0,high,1.05,1,0.19,5.72,0.03,5.73,0.0471,0.0364,0.0618,0.03,"[0.015, 0.03]",0.5,"[0.12, 1]",0.015,99.7
+Streptococcus pneumoniae,AXO,Ceftriaxone,country,Tunisia,79,1.0,high,8.86,7,4.36,17.18,3.64,17.41,0.4116,0.2992,0.5619,1.0,"[0.5, 1]",1.0,"[1, 2]",1.0,99.8
+Streptococcus pneumoniae,AMX,Amoxicillin,country,Argentina,95,2.0,moderate,7.37,7,3.61,14.44,3.01,14.59,0.0602,0.041,0.0915,0.03,"[0.015, 0.03]",2.0,"[0.25, 8]",0.015,97.2
+Streptococcus pneumoniae,AMX,Amoxicillin,country,Kenya,44,2.0,moderate,9.09,4,3.59,21.16,2.53,21.67,0.3592,0.209,0.617,0.5,"[0.12, 1]",2.0,"[2, 8]",1.0,37.0
+Streptococcus pneumoniae,AMC,Amoxicillin/Clavulanic acid,country,Argentina,95,2.0,high,7.37,7,3.61,14.44,3.01,14.59,0.058,0.0393,0.087,0.03,"[0.015, 0.03]",2.0,"[0.25, 8]",0.015,99.5
+Streptococcus pneumoniae,AMC,Amoxicillin/Clavulanic acid,country,Kenya,44,2.0,high,9.09,4,3.59,21.16,2.53,21.67,0.3268,0.1959,0.544,0.5,"[0.12, 1]",2.0,"[1, 8]",1.0,94.1
+Haemophilus influenzae,CLA,Clarithromycin,country,Chile,77,8.0,moderate,10.39,8,5.36,19.18,4.59,19.45,4.1842,3.5904,4.9201,4.0,"[4, 4]",16.0,"[8, 32]",4.0,94.9
+Haemophilus influenzae,CLA,Clarithromycin,country,Vietnam,89,8.0,moderate,10.11,9,5.41,18.11,4.73,18.33,1.4068,0.8788,2.2162,4.0,"[2, 4]",16.0,"[8, 32]",4.0,41.9
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,country,Tunisia,74,4.0,moderate,0.0,0,0.0,4.93,0.0,4.86,0.624,0.4926,0.7753,0.5,"[0.5, 1]",2.0,"[1, 4]",1.0,52.0
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,country,Ukraine,99,4.0,moderate,1.01,1,0.18,5.5,0.03,5.5,0.3725,0.2989,0.4668,0.5,"[0.25, 0.5]",2.0,"[1, 4]",0.5,97.8
+Haemophilus influenzae,POD,Cefpodoxime,country,Tunisia,74,2.0,moderate,0.0,0,0.0,4.93,0.0,4.86,0.0761,0.0618,0.0923,0.06,"[0.06, 0.12]",0.12,"[0.12, 0.5]",0.06,61.9
+Haemophilus influenzae,POD,Cefpodoxime,country,Ukraine,99,2.0,moderate,0.0,0,0.0,3.74,0.0,3.66,0.047,0.0409,0.0542,0.06,"[0.03, 0.06]",0.12,"[0.12, 0.12]",0.03,79.3
+Haemophilus influenzae,AXO,Ceftriaxone,year,2016,686,2.0,high,0.0,0,0.0,0.56,0.0,0.54,0.0179,0.0171,0.0188,0.015,"[0.015, 0.015]",0.03,"[0.015, 0.03]",0.015,100.0
+Haemophilus influenzae,AXO,Ceftriaxone,year,2017,351,2.0,high,0.0,0,0.0,1.08,0.0,1.05,0.0215,0.0198,0.0237,0.015,"[0.015, 0.015]",0.12,"[0.06, 0.12]",0.015,100.0
+Haemophilus influenzae,AXO,Ceftriaxone,year,2018,27,2.0,high,0.0,0,0.0,12.46,0.0,12.77,0.1465,0.1126,0.1815,0.12,"[0.12, 0.25]",0.25,"[0.25, 0.25]",0.25,68.9
+Haemophilus influenzae,CDN,Cefdinir,year,2016,686,1.0,moderate,0.29,2,0.08,1.06,0.04,1.05,0.0355,0.0341,0.0371,0.03,"[0.03, 0.03]",0.06,"[0.03, 0.06]",0.03,100.0
+Haemophilus influenzae,CDN,Cefdinir,year,2017,351,1.0,moderate,0.0,0,0.0,1.08,0.0,1.05,0.0379,0.0359,0.0403,0.03,"[0.03, 0.03]",0.12,"[0.06, 0.12]",0.03,100.0
+Haemophilus influenzae,CDN,Cefdinir,year,2018,27,1.0,moderate,0.0,0,0.0,12.46,0.0,12.77,0.1182,0.0887,0.1535,0.12,"[0.12, 0.12]",0.25,"[0.25, 0.5]",0.12,87.9
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,year,2016,686,4.0,moderate,0.15,1,0.03,0.82,0.0,0.81,0.4811,0.4466,0.5177,0.5,"[0.5, 0.5]",2.0,"[1, 2]",0.5,100.0
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,year,2017,351,4.0,moderate,3.13,11,1.76,5.52,1.57,5.54,0.7081,0.6324,0.7954,0.5,"[0.5, 1]",4.0,"[4, 4]",0.5,100.0
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,year,2018,27,4.0,moderate,0.0,0,0.0,12.46,0.0,12.77,1.5874,1.1969,2.052,2.0,"[1, 2]",4.0,"[2, 4]",2.0,76.3

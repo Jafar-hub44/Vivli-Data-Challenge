@@ -1,0 +1,27 @@
+Variable,Pandas dtype,Non-null count,Null count
+Isolate Number,object,2318,0
+Organism,str,2318,0
+BodyLocation,str,2318,0
+Country,str,2318,0
+Centre,int64,2318,0
+Gender,str,2318,0
+Age,int64,2318,0
+Collection Date,object,2318,0
+Betalactamase,str,1070,1248
+AMC,object,2318,0
+AMP,object,2318,0
+AMX,object,2318,0
+AXO,object,2318,0
+AZM,object,2318,0
+CDN,object,2318,0
+CEC,object,2318,0
+CLA,object,2318,0
+CXM,object,2318,0
+DIN,object,2318,0
+ERY,object,1247,1071
+FIX,object,2318,0
+LEV,object,2318,0
+MXF,object,2318,0
+PEN,object,1247,1071
+POD,object,2318,0
+SXT,object,2318,0

@@ -1,0 +1,8 @@
+Source,Organism,Antibiotic,Antibiotic (name),Country A,N_A,R_A,Country B,N_B,R_B,Breakpoint (mg/L),Breakpoint confidence,%R_A,%R_B,Risk difference (pp),Risk difference Newcombe 95% CI,Fisher exact p-value,GeoMean log2 difference (A-B),"Permutation p-value (GeoMean, PRIMARY)",Mann-Whitney U p-value (secondary),Turnbull median log2 diff (bootstrap median),Turnbull median diff 95% CI
+Stage3 Part1 Case1,Haemophilus influenzae,AXO,Ceftriaxone,Philippines,59,0,Vietnam,89,0,2.0,high,0.0,0.0,0.0,"[-4.14, 6.11]",1.0,-3.162,0.0001,0.0,-3.559,"[-3.559, -3.559]"
+Stage3 Part1 Case2,Streptococcus pneumoniae,AXO,Ceftriaxone,Argentina,95,1,Tunisia,79,7,1.0,high,1.05,8.86,-7.81,"[-16.17, -1.32]",0.0239,-3.128,0.0001,0.0,-5.059,"[-5.559, -4.059]"
+Stage3 Part1 Case3,Streptococcus pneumoniae,AMX,Amoxicillin,Argentina,95,7,Kenya,44,4,2.0,moderate,7.37,9.09,-1.72,"[-14.36, 7.23]",0.7423,-2.578,0.0001,0.0,-4.059,"[-5.559, -2.059]"
+Stage3 Part1 Case4,Streptococcus pneumoniae,AMC,Amoxicillin/Clavulanic acid,Argentina,95,7,Kenya,44,4,2.0,high,7.37,9.09,-1.72,"[-14.36, 7.23]",0.7423,-2.495,0.0001,0.0,-4.059,"[-6.559, -2.059]"
+Stage3 Part3 hidden-signal #1,Haemophilus influenzae,CLA,Clarithromycin,Chile,77,8,Vietnam,89,9,8.0,moderate,10.39,10.11,0.28,"[-9.17, 10.25]",1.0,1.573,0.0001,0.05007,0.0,"[0.000, 1.000]"
+Stage3 Part3 hidden-signal #2,Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,Tunisia,74,0,Ukraine,99,1,4.0,moderate,0.0,1.01,-1.01,"[-5.50, 3.99]",1.0,0.744,0.0013,0.00016,0.0,"[0.000, 1.000]"
+Stage3 Part3 hidden-signal #3,Haemophilus influenzae,POD,Cefpodoxime,Tunisia,74,0,Ukraine,99,0,2.0,moderate,0.0,0.0,0.0,"[-3.74, 4.93]",1.0,0.695,0.0001,0.00036,0.0,"[0.000, 2.059]"

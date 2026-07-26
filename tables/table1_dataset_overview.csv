@@ -1,0 +1,9 @@
+Metric,Value
+Source file,GSK_SOAR_201910_raw_data.xlsx
+Source sheet,3550 valid MIC data (2)
+Number of observations (rows),2318
+Number of variables (columns),26
+Dataset dimensions,2318 x 26
+"Memory usage (MB, deep)",2.366
+Duplicate rows (fully identical),0
+Unique isolates (Isolate Number),2318

@@ -1,0 +1,2 @@
+Organism,Antibiotic,Antibiotic (name),Breakpoint confidence,Country A,N_A,%R_A,MIC50_A,MIC90_A,GeoMean_A,Modal_A,Skew_A,Country B,N_B,%R_B,MIC50_B,MIC90_B,GeoMean_B,Modal_B,Skew_B,%R difference (pp),GeoMean gap (log2 steps),Modal MIC differs?,Min N,Source
+Haemophilus influenzae,CLA,Clarithromycin,moderate,Chile,77,10.39,4.0,16.0,4.1842,4.0,1.321,Vietnam,89,10.11,4.0,16.0,1.4068,4.0,-0.731,0.28,1.573,False,77,country

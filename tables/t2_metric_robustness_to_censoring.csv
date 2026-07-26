@@ -1,0 +1,9 @@
+Organism,Antibiotic,% censored,Median: log2-fold range across methods (boundary vs Turnbull),Median Turnbull identifiable?,Geometric mean: log2-fold range across methods (boundary vs half-dilution)
+Streptococcus pneumoniae,LEV,0.28,1.0,True,0.001
+Escherichia coli,AMC,0.94,1.0,True,0.005
+Haemophilus influenzae,DIN,1.03,1.0,True,0.005
+Klebsiella pneumoniae,AMC,4.11,1.0,True,0.021
+Streptococcus pneumoniae,CLA,55.71,1.0,True,0.102
+Escherichia coli,AMP,56.6,,False,0.283
+Klebsiella pneumoniae,PEN,79.45,,False,0.397
+Haemophilus influenzae,AXO,84.13,0.499,True,0.415

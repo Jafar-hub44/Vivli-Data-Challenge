@@ -1,0 +1,18 @@
+Antibiotic (code),Antibiotic (name),Number tested,Number missing,Number exact MICs,Number left-censored (</=),Number right-censored (>),Number unparsed values,Minimum MIC (mg/L),Maximum MIC (mg/L),Distinct dilution values observed,Percent censored (%)
+AMC,Amoxicillin/Clavulanic acid,2318,0,2036,278,4,0,0.015,128.0,14,12.17
+AMP,Ampicillin,2318,0,1733,477,108,0,0.03,128.0,13,25.24
+AMX,Amoxicillin,2318,0,1896,298,124,0,0.015,256.0,15,18.21
+AXO,Ceftriaxone,2318,0,1181,1118,19,0,0.015,8.0,10,49.05
+AZM,Azithromycin,2318,0,1722,132,464,0,0.03,64.0,12,25.71
+CDN,Cefdinir,2318,0,1131,1170,17,0,0.015,16.0,11,51.21
+CEC,Cefaclor,2318,0,1895,5,418,0,0.03,32.0,11,18.25
+CLA,Clarithromycin,2318,0,1505,216,597,0,0.015,32.0,12,35.07
+CXM,Cefuroxime,2318,0,2176,76,66,0,0.015,64.0,13,6.13
+DIN,Cefdinir (alternate code - see note),2318,0,2269,17,32,0,0.015,32.0,12,2.11
+ERY,Erythromycin,1247,1071,554,91,602,0,0.015,16.0,11,55.57
+FIX,Cefixime,2318,0,1973,306,39,0,0.015,64.0,13,14.88
+LEV,Levofloxacin,2318,0,2213,17,88,0,0.004,64.0,15,4.53
+MXF,Moxifloxacin,2318,0,2228,23,67,0,0.004,16.0,13,3.88
+PEN,Penicillin,1247,1071,721,361,165,0,0.03,8.0,9,42.18
+POD,Cefpodoxime,2318,0,2049,213,56,0,0.015,16.0,11,11.6
+SXT,Trimethoprim/Sulfamethoxazole,2318,0,2170,36,112,0,0.015,32.0,12,6.38

@@ -1,0 +1,40 @@
+Organism,Antibiotic,Antibiotic (name),S breakpoint (mg/L),Confidence,Note
+Streptococcus pneumoniae,PEN,Penicillin,0.06,high,"Oral penicillin, nonmeningitis"
+Streptococcus pneumoniae,AMX,Amoxicillin,2.0,moderate,Oral amoxicillin
+Streptococcus pneumoniae,AMC,Amoxicillin/Clavulanic acid,2.0,high,"Amoxicillin/clavulanate, amoxicillin component"
+Streptococcus pneumoniae,AXO,Ceftriaxone,1.0,high,"Ceftriaxone, nonmeningitis"
+Streptococcus pneumoniae,POD,Cefpodoxime,0.5,high,Cefpodoxime
+Streptococcus pneumoniae,CXM,Cefuroxime,0.5,moderate,"Cefuroxime, oral"
+Streptococcus pneumoniae,ERY,Erythromycin,0.25,high,Erythromycin
+Streptococcus pneumoniae,CLA,Clarithromycin,0.25,high,Clarithromycin
+Streptococcus pneumoniae,AZM,Azithromycin,0.5,high,Azithromycin
+Streptococcus pneumoniae,SXT,Trimethoprim/Sulfamethoxazole,0.5,moderate,"Trimethoprim/sulfamethoxazole, trimethoprim component"
+Streptococcus pneumoniae,LEV,Levofloxacin,2.0,high,Levofloxacin
+Streptococcus pneumoniae,MXF,Moxifloxacin,1.0,high,Moxifloxacin
+Streptococcus pneumoniae,CDN,Cefdinir,0.5,moderate,Cefdinir
+Streptococcus pneumoniae,DIN,Cefdinir (alternate code - see note),0.5,low,"Assumes DIN = cefdinir (unresolved code ambiguity, see Stage 1/2A)"
+Haemophilus influenzae,AMP,Ampicillin,1.0,high,Ampicillin
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,4.0,moderate,"Amoxicillin/clavulanate, legacy pre-2022 breakpoint, amoxicillin component"
+Haemophilus influenzae,AXO,Ceftriaxone,2.0,high,Ceftriaxone
+Haemophilus influenzae,CXM,Cefuroxime,4.0,moderate,"Cefuroxime, oral"
+Haemophilus influenzae,FIX,Cefixime,1.0,high,Cefixime
+Haemophilus influenzae,POD,Cefpodoxime,2.0,moderate,Cefpodoxime
+Haemophilus influenzae,AZM,Azithromycin,4.0,high,Azithromycin
+Haemophilus influenzae,CLA,Clarithromycin,8.0,moderate,Clarithromycin
+Haemophilus influenzae,SXT,Trimethoprim/Sulfamethoxazole,0.5,moderate,"Trimethoprim/sulfamethoxazole, trimethoprim component"
+Haemophilus influenzae,LEV,Levofloxacin,2.0,high,Levofloxacin
+Haemophilus influenzae,MXF,Moxifloxacin,2.0,low,"Moxifloxacin, lower-confidence recall"
+Haemophilus influenzae,CDN,Cefdinir,1.0,moderate,Cefdinir
+Haemophilus influenzae,DIN,Cefdinir (alternate code - see note),1.0,low,"Assumes DIN = cefdinir (unresolved code ambiguity, see Stage 1/2A)"
+Escherichia coli,AMP,Ampicillin,8.0,high,"Ampicillin, Enterobacterales"
+Escherichia coli,AMC,Amoxicillin/Clavulanic acid,8.0,moderate,"Amoxicillin/clavulanate, legacy pre-2022, amoxicillin component"
+Escherichia coli,AXO,Ceftriaxone,1.0,high,"Ceftriaxone, Enterobacterales"
+Escherichia coli,FIX,Cefixime,1.0,moderate,"Cefixime, Enterobacterales"
+Escherichia coli,SXT,Trimethoprim/Sulfamethoxazole,2.0,high,"Trimethoprim/sulfamethoxazole, trimethoprim component, Enterobacterales"
+Escherichia coli,LEV,Levofloxacin,2.0,high,"Levofloxacin, Enterobacterales"
+Klebsiella pneumoniae,AMC,Amoxicillin/Clavulanic acid,8.0,moderate,"Amoxicillin/clavulanate, legacy pre-2022, amoxicillin component"
+Klebsiella pneumoniae,AXO,Ceftriaxone,1.0,high,"Ceftriaxone, Enterobacterales"
+Klebsiella pneumoniae,FIX,Cefixime,1.0,moderate,"Cefixime, Enterobacterales"
+Klebsiella pneumoniae,SXT,Trimethoprim/Sulfamethoxazole,2.0,high,"Trimethoprim/sulfamethoxazole, trimethoprim component, Enterobacterales"
+Klebsiella pneumoniae,LEV,Levofloxacin,2.0,high,"Levofloxacin, Enterobacterales"
+Klebsiella pneumoniae,PEN,Penicillin,,n/a,No CLSI breakpoint: penicillin not clinically indicated for Enterobacterales

@@ -1,0 +1,7 @@
+Organism,Antibiotic,Antibiotic (name),Censoring level,N,% censored,Median MIC - Boundary substitution,Median MIC - Half-dilution substitution,Median MIC - Turnbull NPMLE (midpoint),Median MIC - Turnbull NPMLE (lower bound),Median MIC - Turnbull NPMLE (upper bound),Geometric mean MIC - Boundary substitution,Geometric mean MIC - Half-dilution substitution,"Geometric mean well-defined (Turnbull, right tail)","Boundary vs Half-dilution, geometric mean ratio","Boundary vs Half-dilution, log2-fold difference"
+Streptococcus pneumoniae,LEV,Levofloxacin,Very low (~0%),1068,0.28,1.0,1.0,2.0,2.0,2.0,1.0593,1.0582,True,1.001,0.001
+Haemophilus influenzae,AMC,Amoxicillin/Clavulanic acid,Low (~7%),1071,7.28,0.5,0.5,1.0,1.0,1.0,0.5629,0.5489,True,1.026,0.036
+Streptococcus pneumoniae,AMC,Amoxicillin/Clavulanic acid,Moderate (~19%),1068,18.73,0.25,0.25,0.5,0.5,0.5,0.2783,0.2608,True,1.067,0.094
+Streptococcus pneumoniae,AMP,Ampicillin,Moderate-high (~30%),1068,30.24,0.5,0.5,1.0,1.0,1.0,0.4203,0.3784,True,1.111,0.151
+Streptococcus pneumoniae,AZM,Azithromycin,High (~52%),1068,52.43,4.0,4.0,8.0,8.0,8.0,1.3986,1.5436,False,0.906,0.142
+Haemophilus influenzae,AXO,Ceftriaxone,Very high (~84%),1071,84.13,0.015,0.010606601717798212,0.0212,0.015,0.03,0.02,0.015,True,1.339,0.421

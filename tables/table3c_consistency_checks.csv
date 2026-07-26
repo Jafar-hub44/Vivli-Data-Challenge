@@ -1,0 +1,10 @@
+Check,Unique values,Finding,Values
+Country names,18,No obvious spelling variants or case inconsistencies detected.,"Argentina, Cambodia, Chile, Costa Rica, Ghana, Kenya, Kuwait, Lebanon, Morocco, Nigeria, Pakistan, Philippines, Saudi Arabia, Singapore, Tunisia, Turkey, Ukraine, Vietnam"
+Organism names,4,Consistent binomial nomenclature; no case/spelling variants detected.,"Escherichia coli, Haemophilus influenzae, Klebsiella pneumoniae, Streptococcus pneumoniae"
+Antibiotic column codes,17,"CDN and DIN both correspond to 'Cefdinir' in standard lab abbreviation lists, yet hold different values per isolate (identical in only 169/2318 rows) - unresolved naming ambiguity, recommend confirming with data provider.","AMC, AMP, AMX, AXO, AZM, CDN, CEC, CLA, CXM, DIN, ERY, FIX, LEV, MXF, PEN, POD, SXT"
+Collection years,4,"Range 2015-2018; plausible and internally consistent. However, the source field mixes three encodings (datetime, text date, bare year) - standardized in script 01.","2015, 2016, 2017, 2018"
+Sex (Gender) coding,2,"Two consistent codes used (M/F); no blanks, unknowns, or alternate codings observed.","F, M"
+Body site (BodyLocation) coding,11,"Consistent 'System: Specimen' hierarchical free-text format; no case or delimiter inconsistencies detected, though the field mixes two levels of granularity in one string.",Bodily Fluids: Pleural; CVS: Blood; GU: Urine; HEENT: Ears; HEENT: Middle ear; Respiratory: Bronchoalveolar lavage; Respiratory: Endotracheal aspirate; Respiratory: Nasotracheal aspirate; Respiratory: Sinuses; Respiratory: Sputum; Respiratory: Transtracheal aspirate
+Beta-lactamase coding,4,INCONSISTENT: four distinct raw codes for two true categories ('Negative'/'NEG' and 'Positive'/'POS'); standardized to two labels in script 01. Also 53.8% missing overall.,"NEG, Negative, POS, Positive"
+MIC formatting (censoring operators),2,"Operators observed across all antibiotic columns: ['</=', '>']. Format is internally consistent (operator + numeric dilution value); parsed into numeric value + censor type in script 01.","</=, >"
+Age plausibility,100,Range 0-150 years. 5 record(s) with Age > 110 flagged as implausible.,

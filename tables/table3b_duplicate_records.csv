@@ -1,0 +1,4 @@
+Check,Count
+Fully duplicated rows (all columns identical),0
+Duplicate Isolate Number values,0
+Records sharing an identical full antibiotic MIC panel (excl. ID),119

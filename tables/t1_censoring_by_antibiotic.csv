@@ -1,0 +1,18 @@
+Antibiotic (code),Antibiotic (name),N tested,N missing,N exact,N left-censored (<=),N right-censored (>),% censored (of tested),% left-censored (of tested),% right-censored (of tested),Lowest observed dilution (mg/L),Highest observed dilution (mg/L)
+ERY,Erythromycin,1247,1071,554,91,602,55.57,7.3,48.28,0.015,16.0
+CDN,Cefdinir,2318,0,1131,1170,17,51.21,50.47,0.73,0.015,16.0
+AXO,Ceftriaxone,2318,0,1181,1118,19,49.05,48.23,0.82,0.015,8.0
+PEN,Penicillin,1247,1071,721,361,165,42.18,28.95,13.23,0.03,8.0
+CLA,Clarithromycin,2318,0,1505,216,597,35.07,9.32,25.75,0.015,32.0
+AZM,Azithromycin,2318,0,1722,132,464,25.71,5.69,20.02,0.03,64.0
+AMP,Ampicillin,2318,0,1733,477,108,25.24,20.58,4.66,0.03,128.0
+CEC,Cefaclor,2318,0,1895,5,418,18.25,0.22,18.03,0.03,32.0
+AMX,Amoxicillin,2318,0,1896,298,124,18.21,12.86,5.35,0.015,256.0
+FIX,Cefixime,2318,0,1973,306,39,14.88,13.2,1.68,0.015,64.0
+AMC,Amoxicillin/Clavulanic acid,2318,0,2036,278,4,12.17,11.99,0.17,0.015,128.0
+POD,Cefpodoxime,2318,0,2049,213,56,11.6,9.19,2.42,0.015,16.0
+SXT,Trimethoprim/Sulfamethoxazole,2318,0,2170,36,112,6.38,1.55,4.83,0.015,32.0
+CXM,Cefuroxime,2318,0,2176,76,66,6.13,3.28,2.85,0.015,64.0
+LEV,Levofloxacin,2318,0,2213,17,88,4.53,0.73,3.8,0.004,64.0
+MXF,Moxifloxacin,2318,0,2228,23,67,3.88,0.99,2.89,0.004,16.0
+DIN,Cefdinir (alternate code - see note),2318,0,2269,17,32,2.11,0.73,1.38,0.015,32.0
